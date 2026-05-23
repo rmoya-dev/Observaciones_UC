@@ -466,5 +466,41 @@
     "ESTADO CORREO": "ENVIADO_TARDANZA",
     "TIEMPO TARDANZA (MIN)": "1 hora con 50 min.",
     "PROCEDE DESCUENTO": ""
+  },
+  {
+    "NRO_TAR": 243,
+    "PERIODO": 202610,
+    "MODALIDAD": "Semipresencial",
+    "EAP": "INGENIER?A CIVIL",
+    "FECHA": "2026-05-20T07:00:00.000Z",
+    "NRC": 22647,
+    "ASIGNATURA": "TALLER DE INVESTIGACI?N 1 INGENIER?A CIVIL",
+    "DOCENTE": "PE?A, CASTILLO Sorel Manuel*",
+    "HORARIO": "(VCLA)MIE 1900:2029(-Sin asignar)",
+    "EMAIL DOCENTE": "spenaca@continental.edu.pe",
+    "EMAIL APOYO": "ddelgadof@continental.edu.pe",
+    "EMAIL RESPONSABLE": "jcabezasm@continental.edu.pe",
+    "DETALLE O MOTIVO": "El docente inicia la sesi?n de aprendizaje 19: 20",
+    "ESTADO CORREO": "ENVIADO_TARDANZA",
+    "TIEMPO TARDANZA (MIN)": 20,
+    "PROCEDE DESCUENTO": ""
+  },
+  {
+    "NRO_TAR": 245,
+    "PERIODO": 202610,
+    "MODALIDAD": "Semipresencial",
+    "EAP": "Transversal Ciencias",
+    "FECHA": "2026-05-22T07:00:00.000Z",
+    "NRC": 22729,
+    "ASIGNATURA": "?LGEBRA LINEAL Y GEOMETR?A ANAL?TICA",
+    "DOCENTE": "CCARHUARUPAY, ATAPAUCAR Eva Alicia*",
+    "HORARIO": "(VCLA)VIE 1900:2029(-Sin asignar)",
+    "EMAIL DOCENTE": "eccarhuarupay@continental.edu.pe",
+    "EMAIL APOYO": "eiturriaga@continental.edu.pe",
+    "EMAIL RESPONSABLE": "eiturriaga@continental.edu.pe",
+    "DETALLE O MOTIVO": "La docente inicia su sesi?n con 20 minutos de demora, al parecer tuvo inconvenientes t?cnicos.",
+    "ESTADO CORREO": "ENVIADO_TARDANZA",
+    "TIEMPO TARDANZA (MIN)": 20,
+    "PROCEDE DESCUENTO": ""
   }
 ]
